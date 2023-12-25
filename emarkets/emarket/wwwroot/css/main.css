@@ -1,0 +1,21 @@
+/*!  Global  */
+
+@import url(Base.css);
+
+
+/*!  Layout */
+
+@import url(~/Content/Layout/Header.css);
+
+
+/*!  Component  */
+
+@import url(Component/modal-search.css);
+@import url(~/Content/Component/Slider.css);
+@import url(Component/category-item.css);
+@import url(Component/product-item.css);
+
+
+/*! pages  */
+
+@import url(Pages/Home.css);
